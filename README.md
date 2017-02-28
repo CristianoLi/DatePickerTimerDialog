@@ -1,6 +1,7 @@
 # DatePickerTimerDialog
 DatePickerTimerDialog日期选择控件
 关于日期选择控件，之前项目中用到了好多次，不同的项目需求是不一样的，比如说UI啊，时间选择限制等等。这次写的demo就从几个方面来解决项目中可能出现的需求情况。
+CSDN博客地址：http://blog.csdn.net/lf0814/article/details/58587835
 首先看效果：
       ![只显示年月日](http://img.blog.csdn.net/20170228145919454?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGYwODE0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![显示年月日和时间](http://img.blog.csdn.net/20170228150109111?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGYwODE0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -361,5 +362,4 @@ private String getWeek(String time) {
 ```
    由于有的项目中需要在年月日中的显示中添加“日”，这个一直没找到好的方法，以及对时间的显示只显示时，去掉分，这个也一直没想到好的做法（除了自定义，有水平有限）。希望有大神了可以再此基础上修改，可以发到我邮箱（1346765933@qq.com）。
    最后如果有写的不好的请提出您宝贵的意见，谢谢！
-   CSDN博客地址：http://blog.csdn.net/lf0814/article/details/58587835
  
