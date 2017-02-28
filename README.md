@@ -1,6 +1,9 @@
 # DatePickerTimerDialog
 DatePickerTimerDialog日期选择控件
-关于日期选择控件，之前项目中用到了好多次，不同的项目需求是不一样的，比如说UI啊，时间选择限制等等。这次写的demo就从几个方面来解决项目中可能出现的需求情况。CSDN博客地址：http://blog.csdn.net/lf0814/article/details/58587835
+关于日期选择控件，之前项目中用到了好多次，不同的项目需求是不一样的，比如说UI啊，时间选择限制等等。这次写的demo就从几个方面来解决项目中可能出现的需求情况。
+CSDN博客地址：http://blog.csdn.net/lf0814/article/details/58587835
+
+
 首先看效果：
       ![只显示年月日](http://img.blog.csdn.net/20170228145919454?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGYwODE0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![显示年月日和时间](http://img.blog.csdn.net/20170228150109111?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGYwODE0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
